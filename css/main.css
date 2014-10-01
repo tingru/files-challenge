@@ -2,6 +2,7 @@ body {
 	background-color: gray;
     font-family: Helvetica, sans-serif;
     font-size: 18px;
+    font-style: italic;
 }
 img {
     max-width: 400px;
